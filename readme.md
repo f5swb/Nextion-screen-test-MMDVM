@@ -3,7 +3,7 @@ Je vous présente un utilitaire pour les utlisateurs de l'écran NEXTION et du M
 Celui-ci permet d'afficher tous les champs qui sont disponibles en DMR / 2 TimeSlot.
 Les autres modes sont supportés mais la partie graphique n'est pas optimisée.
 
-<img src = "https://github.com/f5swb/Nextion-screen-test-MMDVM /blob/master/SCREEN TEST.PNG" title = "Nextion scree">
+<img src = "https://github.com/f5swb/Nextion-screen-test-MMDVM/blob/master/SCREEN%20TEST.PNG" title = "Nextion scree">
 
 Deux versions sont disponibles en version 3.5K et 3.5T.
 
