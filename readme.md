@@ -9,7 +9,7 @@ Deux versions sont disponibles en version 3.5K et 3.5T.
 
 <img src = "https://github.com/f5swb/Nextion-screen-test-MMDVM/blob/master/DMR%20SCREEN%20TEST.PNG" title = "Nextion screen">
 
-L'installation du driver Nextion est indispensable si vous souhaitez avoir toutes les informations.
+L'installation du driver Nextion de EA5KL est indispensable si vous souhaitez avoir toutes les informations.
 
 https://github.com/EA5KL/NextionDriverInstaller
 
