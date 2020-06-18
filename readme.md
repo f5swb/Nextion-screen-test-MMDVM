@@ -13,3 +13,30 @@ L'installation du driver Nextion de EA5KL est indispensable si vous souhaitez av
 
 https://github.com/EA5KL/NextionDriverInstaller
 
+log in to your Pi-Star with SSH
+
+    use PuTTY
+    or go to your dashboard -> configuration -> expert -> SSH access (http://pi-star.local/admin/expert/ssh_access.php)
+
+To enable read-write mode:
+
+
+rpi-rw
+
+
+The command line prompt will change. from: pi-star@pi-star(ro):tmp$ to: pi-star@pi-star(rw):tmp$
+
+
+go to the /tmp directory :
+
+cd /tmp
+
+get the software :
+
+git clone https://github.com/EA5KL/NextionDriverInstaller.git
+
+go !
+
+sudo NextionDriverInstaller/install.sh
+
+then reboot you system
